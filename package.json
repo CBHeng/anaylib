@@ -1,0 +1,19 @@
+{
+  "name": "anaylib",
+  "version": "0.0.1",
+  "description": "anaylib is a frontend chart library. You can use it building your frontend platform if you has self analysis backend platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBHeng/anaylib.git"
+  },
+  "author": "CBHeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBHeng/anaylib/issues"
+  },
+  "homepage": "https://github.com/CBHeng/anaylib#readme"
+}
